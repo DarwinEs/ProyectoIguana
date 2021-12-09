@@ -6,29 +6,27 @@ export default function index() {
             <div>
                 <nav class="barra navbar navbar-expand-lg navbar-light">
 
-<a class="navbar-brand fw-bold" style={{color: "black"}} href> Netflix</a>
+<a className="navbar-brand fw-bold" style={{color: "black"}} href> Farmacia Sana Sana</a>
 
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="navbar-nav mr-auto">
-    <li class="nav-item active">
-      <a class="nav-link fw-bold" style={{color: "black"}} href>Servicios</a>
+<div className="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul className="navbar-nav mr-auto">
+    <li className="nav-item active">
+      <a className="nav-link fw-bold" style={{color: "black"}} href>Servicios</a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link fw-bold" style={{color: "black"}} href>Peliculas</a>
+    <li className="nav-item">
+      <a className="nav-link fw-bold" style={{color: "black"}} href>Peliculas</a>
     </li>
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle fw-bold" style={{color: "black"}} id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href>
+    <li className="nav-item dropdown">
+      <a className="nav-link dropdown-toggle fw-bold" style={{color: "black"}} id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href>
         Categorias
       </a>
       </li>
-    <li class="nav-item">
-      <a class="nav-link disabled fw-bold" style={{color: "black"}} href>Informacion</a>
+    <li className="nav-item">
+      <a className="nav-link fw-bold" style={{color: "black"}} href>Informacion</a>
     </li>
   </ul>
  </div>
 </nav>
-  
- 
-            </div>
+              </div>
         )
     }

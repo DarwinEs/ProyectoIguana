@@ -5,9 +5,8 @@ import Somos from '../../assets/IMAGENES/Quienes-Somos.png'
 
 export default function index() {
     return(
-<>
         <div className="container" >
-            <h3 className="Titulo fw-bold">Farmacia Sana Sana</h3>
+            <h2 className="Titulo fw-bold">Farmacia Sana Sana</h2>
         <div className="row col-12 pruebas ">
             <div className="col-6 contImg d-flex justify-content-center align-items-center" >
             <img classname="img-fluid" src={Logo} width="70%"  alt="" />
@@ -30,6 +29,5 @@ export default function index() {
       
   </div>
 
-</>
         )
     }
