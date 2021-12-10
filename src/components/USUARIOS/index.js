@@ -3,7 +3,7 @@ import "../../assets/usuarios.css"
 
 export default function index() {
   return (
-      <div className="d-flex justify-content-center align-items-center col-12">
+      <div className="container d-flex justify-content-center align-items-center col-12">
         <div className="TablaContenedor col-8">
             <table className="table table-bordered table-hover table-success table-striped m-2">
                 <thead>
@@ -26,8 +26,23 @@ export default function index() {
                     </tr>
                     <tr>
                         <th scope='col'>3</th>
-                        <td>Prueba</td>
-                        <td>Prueba2</td>
+                        <td>Rudy</td>
+                        <td>Escobar</td>
+                    </tr>
+                    <tr>
+                        <th scope='col'>3</th>
+                        <td>Jose</td>
+                        <td>Ventura</td>
+                    </tr>
+                    <tr>
+                        <th scope='col'>3</th>
+                        <td>Alvarado</td>
+                        <td>Fallas</td>
+                    </tr>
+                    <tr>
+                        <th scope='col'>3</th>
+                        <td>Alfaro</td>
+                        <td>Castro</td>
                     </tr>
                 </tbody>
             </table>
