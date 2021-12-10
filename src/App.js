@@ -4,7 +4,7 @@ import Navbar from './components/NAVBAR/index'
 import Inicio from'./components/INICIO/index'
 import Footer from './components/FOOTER/index'
 import Usuarios from './components/USUARIOS/index'
-import Error from './components/error'
+import Error from './components/Error'
 import Home from './components/Home'
 import "../src/assets/estilo.css"
 
