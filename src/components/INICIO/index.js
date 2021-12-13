@@ -1,7 +1,7 @@
-import React from 'react'
-import "../../assets/inicio.css"
-import Logo from '../../assets/IMAGENES/LogoFarmacia.jpg'
-import Somos from '../../assets/IMAGENES/Quienes-Somos.png'
+import React from 'react';
+import "../../assets/inicio.css";
+import Logo from '../../assets/IMAGENES/LogoFarmacia.jpg';
+import Somos from '../../assets/IMAGENES/Quienes-Somos.png';
 
 export default function index() {
     return(
