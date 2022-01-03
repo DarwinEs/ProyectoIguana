@@ -23,6 +23,7 @@ export default class RenderizadoCondicional extends Component {
         this.state = {
             session: true,
         }
+        // console.log("Hola Mundo")
     }
 
   render() {
